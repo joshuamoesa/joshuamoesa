@@ -1,6 +1,6 @@
 ### Hey, I'm [Joshua Moesa](https://joshuamoesa.com)! ✌
 
-As a senior consultant working for [Rubix](https://www.rubix.nl/), I'm tackling enterprise application integration challenges at scale. Currently focused on augmenting data using big data analysis tools and practices. Integration-nerd. Dutch. Child of the 80s. Dad of twins. . ✨😍
+As a senior consultant working for [Rubix](https://www.rubix.nl/), I'm tackling enterprise application integration challenges at scale. Currently focused on augmenting data using big data analysis tools and practices. Integration-nerd. Dutch. Child of the 80s. Dad of twins and a dachshund puppy dog named Ollie. ✨😍
 
 ### What I'm working on 👨‍💻
 
