@@ -1,6 +1,6 @@
 ### Hey, I'm [Joshua Moesa](https://joshuamoesa.com)! ✌
 
-As a senior consultant working for [Rubix](https://www.rubix.nl/), I'm tackling enterprise application integration challenges at scale. Currently focused on augmenting data using big data analysis tools and practices. Integration-nerd. Dutch. Child of the 80s. Dad of twins and a dachshund puppy dog named Ollie. ✨😍
+Tackling enterprise application integration challenges at scale. Integration-nerd. Dutch. Child of the 80s. Dad of twins and a dachshund puppy dog named Ollie. ✨😍
 
 ### What I'm working on 👨‍💻
 
@@ -8,7 +8,7 @@ Currently I'm architecting and implementing a mission-critical Parcels & Logisti
 
 Areas of focus: TIBCO BusinessWorks Container Edition, TIBCO Messaging (EMS, FTL), AWS Elastic Container Service (ECS), AWS Fargate, AWS Lambda, GO, Java, Docker, Splunk, DataDog
 
-### My most recent posts on [rubix.nl](https://www.rubix.nl/medewerker/joshua-moesa/) 😃🧾
+### My most recent blog posts 😃🧾
 <!-- BLOG-POST-LIST:START -->
 - [Howto set TIBCO BusinessWorks Container Edition (BWCE) environment variables in AWS Fargate](https://www.rubix.nl/aws-blogs/howto-set-tibco-businessworks-container-edition-bwce-environment-variables-in-aws-fargate/)
 - [Deploy a TIBCO BusinessWorks Container Edition (BWCE) application to Amazon’s cloud platform AWS Fargate](https://www.rubix.nl/blogs/deploy-a-tibco-businessworks-container-edition-bwce-application-to-amazons-cloud-platform-aws-fargate/)
@@ -22,3 +22,7 @@ Areas of focus: TIBCO BusinessWorks Container Edition, TIBCO Messaging (EMS, FTL
 
 
 **[joshuamoesa.com](https://joshuamoesa.com)**
+
+### Disclaimer
+
+The material and information contained on https://github.com/joshuamoesa is for general information purposes only. You should not rely upon the material or information as a basis for making any business, legal or any other decisions.
