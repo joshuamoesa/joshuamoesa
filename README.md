@@ -25,4 +25,4 @@ Areas of focus: TIBCO BusinessWorks Container Edition, TIBCO Messaging (EMS, FTL
 
 ### Disclaimer
 
-The material and information contained on https://github.com/joshuamoesa is for general information purposes only. You should not rely upon the material or information as a basis for making any business, legal or any other decisions.
+The opinions, beliefs and viewpoints expressed by the material and information contained on https://github.com/joshuamoesa do not necessarily reflect the opinions, beliefs and viewpoints of my employer. You should not rely upon the material or information as a basis for making any business, legal or any other decisions.
