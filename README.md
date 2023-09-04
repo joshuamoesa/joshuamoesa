@@ -1,19 +1,20 @@
 ### Hey, I'm [Joshua Moesa](https://joshuamoesa.com)! ✌
 
-Tackling enterprise application integration challenges at scale. Integration-nerd. Dutch. Child of the 80s. Dad of twins and a dachshund puppy dog named Ollie. ✨😍
+After tackling enterprise application integration challenges at scale for about 16 years, in 2021 I decided to step out of my comfort zone and pursue a career as a sales engineer at Mendix. ✨😍
 
 ### What I'm working on 👨‍💻
 
-Currently I'm architecting and implementing a mission-critical Parcels & Logistics integration platform using cloud-native technologies like TIBCO BusinessWorks Container edition, AWS ECS Fargate and Docker. Building in Observability with AWS CloudWatch, Splunk, Datadog and big data analysis practices. Ensuring that integration solutions running as internal APIs work perfectly and deliver the best experience. Working with colleagues in technology and business roles to provide a consensus-based solution that is scalable, adaptable and in synchronization with changing business needs using hybrid integration practices. Ultimate goal is leveraging the platform to help PostNL gain footprint as the logistics and postal solutions provider.
+Enabling organisations to create and integrate better software faster by abstracting and automating the development process with Mendix, the all-in-one low-code platform.
 
-Areas of focus: TIBCO BusinessWorks Container Edition, TIBCO Messaging (EMS, FTL), AWS Elastic Container Service (ECS), AWS Fargate, AWS Lambda, GO, Java, Docker, Splunk, DataDog
-
-### My most recent blog posts 😃🧾
+### A collection of stuff I wrote 😃🧾
 <!-- BLOG-POST-LIST:START -->
-- [Howto set TIBCO BusinessWorks Container Edition (BWCE) environment variables in AWS Fargate](https://www.rubix.nl/aws-blogs/howto-set-tibco-businessworks-container-edition-bwce-environment-variables-in-aws-fargate/)
-- [Deploy a TIBCO BusinessWorks Container Edition (BWCE) application to Amazon’s cloud platform AWS Fargate](https://www.rubix.nl/blogs/deploy-a-tibco-businessworks-container-edition-bwce-application-to-amazons-cloud-platform-aws-fargate/)
-- [How to configure Amazon API Gateway as a SOAP webservice passthrough in minutes](https://www.rubix.nl/blogs/how-configure-amazon-api-gateway-soap-webservice-passthrough-minutes/)
-- [Process large amounts of Elasticsearch data using TIBCO ActiveMatrix BusinessWorks 5](https://www.rubix.nl/blogs/process-large-amounts-elasticsearch-data-using-tibco-activematrix-businessworks-5/)
+- [Ilionx Tech Blog - How to configure Amazon API Gateway as a SOAP webservice passthrough in minutes](https://tech.ilionx.com/how-configure-amazon-api-gateway-soap-webservice-passthrough-minutes/)
+- [Ilionx Tech Blog - Deploy a TIBCO BusinessWorks Container Edition (BWCE) application to Amazon’s cloud platform AWS Fargate](https://tech.ilionx.com/deploy-a-tibco-businessworks-container-edition-bwce-application-to-amazons-cloud-platform-aws-fargate/)
+- [Ilionx Tech Blog - Process large amounts of Elasticsearch data using TIBCO ActiveMatrix BusinessWorks 5](https://tech.ilionx.com/process-large-amounts-of-elasticsearch-data-using-tibco-activematrix-businessworks-5/)
+- [CISCO AppDynamics Community - How to instrument TIBCO BusinessWorks Container Edition (2.5.x) on AWS ECS (Fargate)](https://community.appdynamics.com/t5/Java-Java-Agent-Installation-JVM/How-to-instrument-TIBCO-BusinessWorks-Container-Edition-2-5-x-on/td-p/41221)
+- [TrustRadius - User Review of TIBCO Cloud Integration "Interconnect everything fast and accurate"](https://www.trustradius.com/reviews/tibco-businessworks-2017-07-25-15-58-11)
+
+
 <!-- BLOG-POST-LIST:END -->
 
 ### Find me elsewhere 🌎
