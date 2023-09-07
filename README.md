@@ -6,7 +6,7 @@ After tackling enterprise application integration challenges at scale for about 
 
 Enabling organisations to create and integrate better software faster by abstracting and automating the development process with Mendix, the all-in-one low-code platform. Always sharpening the saw to become a better sales engineer. Go to my [Sales Engineer README](https://github.com/joshuamoesa/sales-engineer-readme) and read about my journey.  
 
-### A collection of stuff I wrote 😃🧾
+### A collection of other stuff I've written 😃🧾
 <!-- BLOG-POST-LIST:START -->
 - [Ilionx Tech Blog - How to configure Amazon API Gateway as a SOAP webservice passthrough in minutes](https://tech.ilionx.com/how-configure-amazon-api-gateway-soap-webservice-passthrough-minutes/)
 - [Ilionx Tech Blog - Deploy a TIBCO BusinessWorks Container Edition (BWCE) application to Amazon’s cloud platform AWS Fargate](https://tech.ilionx.com/deploy-a-tibco-businessworks-container-edition-bwce-application-to-amazons-cloud-platform-aws-fargate/)
