@@ -4,7 +4,7 @@ After tackling enterprise application integration challenges at scale for about 
 
 ### What I'm working on 👨‍💻
 
-Enabling organisations to create and integrate better software faster by abstracting and automating the development process with Mendix, the all-in-one low-code platform. Always sharpening the saw to become a better sales engineer. Go to my [README](https://github.com/joshuamoesa/sales-engineer-readme) and read about my journey.  
+Enabling organisations to create and integrate better software faster by abstracting and automating the development process with Mendix, the all-in-one low-code platform. Always sharpening the saw to become a better sales engineer. Go to my [Sales Engineer README](https://github.com/joshuamoesa/sales-engineer-readme) and read about my journey.  
 
 ### A collection of stuff I wrote 😃🧾
 <!-- BLOG-POST-LIST:START -->
