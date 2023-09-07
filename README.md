@@ -1,10 +1,10 @@
 ### Hey, I'm [Joshua Moesa](https://joshuamoesa.com)! ✌
 
-After tackling enterprise application integration challenges at scale for about 16 years, in 2021 I decided to step out of my comfort zone and pursue a career as a sales engineer at Mendix. ✨😍
+After tackling enterprise application integration challenges at scale for about 16 years, in 2021 I decided to step out of my comfort zone and pursue a career as a sales engineer at [Mendix](https://www.mendix.com). ✨😍
 
 ### What I'm working on 👨‍💻
 
-Enabling organisations to create and integrate better software faster by abstracting and automating the development process with Mendix, the all-in-one low-code platform. Always sharpening the saw to become a better sales engineer. Go to my [Sales Engineer README](https://github.com/joshuamoesa/sales-engineer-readme) and read about my journey.  
+Enabling organisations to create and integrate better software faster by abstracting and automating the development process with Mendix, the all-in-one low-code platform. Always sharpening the saw to become a better sales engineer. Go to my [Sales Engineer README](https://github.com/joshuamoesa/sales-engineer-readme) and read about my journey. Or checkout my [Github repositories](https://github.com/joshuamoesa/) 
 
 ### A collection of other stuff I've written 😃🧾
 <!-- BLOG-POST-LIST:START -->
