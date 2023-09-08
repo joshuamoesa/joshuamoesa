@@ -14,15 +14,11 @@ Enabling organisations to create and integrate better software faster by abstrac
 - [CISCO AppDynamics Community - How to instrument TIBCO BusinessWorks Container Edition (2.5.x) on AWS ECS (Fargate)](https://community.appdynamics.com/t5/Java-Java-Agent-Installation-JVM/How-to-instrument-TIBCO-BusinessWorks-Container-Edition-2-5-x-on/td-p/41221)
 - [TrustRadius - User Review of TIBCO Cloud Integration "Interconnect everything fast and accurate"](https://www.trustradius.com/reviews/tibco-businessworks-2017-07-25-15-58-11)
 
-
 <!-- BLOG-POST-LIST:END -->
 
 ### Find me elsewhere 🌎
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshuamoesa/)](https://www.linkedin.com/in/joshuamoesa/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/joshuamoesa)](https://twitter.com/joshuamoesa)
-
-
-**[joshuamoesa.com](https://joshuamoesa.com)**
 
 ### Disclaimer
 
