@@ -18,8 +18,8 @@ Enabling organisations to create and integrate better software faster by abstrac
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshuamoesa/)](https://www.linkedin.com/in/joshuamoesa/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/joshuamoesa)](https://twitter.com/joshuamoesa)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshuamoesa/)](https://www.linkedin.com/in/joshuamoesa/)
 
 ### Disclaimer
 
-The opinions, beliefs and viewpoints expressed by the material and information contained on https://github.com/joshuamoesa do not necessarily reflect the opinions, beliefs and viewpoints of my employer. You should not rely upon the material or information as a basis for making any business, legal or any other decisions.
+The opinions, beliefs and viewpoints expressed by the material and information contained on https://joshuamoesa.com do not necessarily reflect the opinions, beliefs and viewpoints of my employer. You should not rely upon the material or information as a basis for making any business, legal or any other decisions.
