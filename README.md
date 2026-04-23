@@ -8,8 +8,8 @@ Enabling organisations to create and integrate better software faster by abstrac
 
 ### A collection of other stuff I've written 😃🧾
 <!-- BLOG-POST-LIST:START -->
-- [Ilionx Tech Blog - How to configure Amazon API Gateway as a SOAP webservice passthrough in minutes](https://tech.ilionx.com/how-configure-amazon-api-gateway-soap-webservice-passthrough-minutes/)
-- [Ilionx Tech Blog - Deploy a TIBCO BusinessWorks Container Edition (BWCE) application to Amazon’s cloud platform AWS Fargate](https://tech.ilionx.com/deploy-a-tibco-businessworks-container-edition-bwce-application-to-amazons-cloud-platform-aws-fargate/)
+- [Ilionx Tech Blog - How to configure Amazon API Gateway as a SOAP webservice passthrough in minutes](https://tech.ilionx.com/how-to-configure-amazon-api-gateway-as-a-soap-webservice-passthrough-in-minutes)
+- [Ilionx Tech Blog - Deploy a TIBCO BusinessWorks Container Edition (BWCE) application to Amazon’s cloud platform AWS Fargate](https://tech.ilionx.com/deploy-a-tibco-businessworks-container-edition-bwce-application-to-amazon-s-cloud-platform-aws-fargate)
 - [Ilionx Tech Blog - Process large amounts of Elasticsearch data using TIBCO ActiveMatrix BusinessWorks 5](https://tech.ilionx.com/process-large-amounts-of-elasticsearch-data-using-tibco-activematrix-businessworks-5/)
 - [CISCO AppDynamics Community - How to instrument TIBCO BusinessWorks Container Edition (2.5.x) on AWS ECS (Fargate)](https://community.appdynamics.com/t5/Java-Java-Agent-Installation-JVM/How-to-instrument-TIBCO-BusinessWorks-Container-Edition-2-5-x-on/td-p/41221)
 - [TrustRadius - User Review of TIBCO Cloud Integration "Interconnect everything fast and accurate"](https://www.trustradius.com/reviews/tibco-businessworks-2017-07-25-15-58-11)
